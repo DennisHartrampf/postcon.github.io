@@ -1,11 +1,7 @@
 # Team Canvas
 
-The team canvas summarizes our vision, goals, values, strengths, assets, weaknesses, risks, 
-and activities we arrived from these. The original also lists our names and which roles we have.
-This public version is anonymized to keep out of trouble with
-[GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation).
-
-[![Image of team canvas](images/team_canvas.jpg)](images/team_canvas_large.jpg)
+The team canvas summarizes our vision, goals, values, strengths, assets, weaknesses, 
+and activities we arrived from these.
 
 ## Vision
 
@@ -63,14 +59,6 @@ market.
 + Network connectivity (Proxy)
 + Software needlessly complex
 + Many tools, broad landscape
-
-## Risks
-+ Bad participation in designing processes
-+ Unstable infrastructure
-+ Old and bad code base
-+ Responsibilities not clear (Dev, Ops, Support)
-+ Information silos
-+ Partly missing test systems
 
 ## Activities
 + Build process knowledge
