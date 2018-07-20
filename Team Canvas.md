@@ -1,7 +1,6 @@
 # Team Canvas
 
-The team canvas summarizes our vision, goals, values, strengths, assets, weaknesses, 
-and activities we arrived from these.
+The team canvas summarizes our vision, goals, values, strengths, and assets.
 
 ## Vision
 
@@ -49,22 +48,3 @@ market.
 + High quality requirement
 + Scrum
 + Admins on-site
-
-## Weaknesses
-+ Second level support
-+ Process knowledge
-+ Bureaucratic processes (long approvals)
-+ Refactoring methods (handling legacy code)
-+ Still small team
-+ Network connectivity (Proxy)
-+ Software needlessly complex
-+ Many tools, broad landscape
-
-## Activities
-+ Build process knowledge
-+ Implement monitoring together
-+ Encourage internal and external knowledge transfer
-+ Learn and use refactoring methods
-+ Write testable code and test it
-+ Team events
-+ Build/extend test systems
